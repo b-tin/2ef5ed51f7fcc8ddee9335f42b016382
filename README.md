@@ -20,8 +20,8 @@ https://www.manning.com/liveproject/deploy-to-Amazon-Web-Services
 # prerequisites
 This liveProject is for solutions architects and developers with basic knowledge of the cloud. To begin this liveProject you will need to be familiar with:
 
-## TOOLS
-### Basic knowledge of AWS
-## TECHNIQUES
-### Building a CI/CD pipeline
-### Deploying a SaaS application on Kubernetes
+### TOOLS
+* Basic knowledge of AWS
+### TECHNIQUES
+* Building a CI/CD pipeline
+* Deploying a SaaS application on Kubernetes
