@@ -8,6 +8,19 @@
 https://www.manning.com/liveproject/deploy-to-Amazon-Web-Services
 ```
 
+# refer
+* [INFO] How to bring up `EKS` with `terraform`
+```sh
+https://github.com/hashicorp/learn-terraform-provision-eks-cluster
+```
+
+* [ERROR] How do I resolve an unauthorized server error when I connect to the Amazon EKS API server?
+```sh
+https://aws.amazon.com/vi/premiumsupport/knowledge-center/eks-api-server-unauthorized-error/
+
+# ~/.aws/credentials key-pair has to be the same with one in terraform
+```
+
 # learn
 * Setting up an Amazon EKS cluster using HashiCorp’s Terraform
 * Setting up a code pipeline to build a JavaScript application
